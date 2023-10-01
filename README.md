@@ -2,7 +2,7 @@
 Study case in Adaptive Design.
 Study case after 2 weeks of learning Web-development 
 
-### Code by: 
+# ode by: 
   HTML
   CSS
   SASS
@@ -10,9 +10,9 @@ Study case after 2 weeks of learning Web-development
   JS
   BEM-techlonogy 
   
-### Design by: Figma
+# Design by: Figma
 
-### This site is adaptive, key breakpoints:
+# This site is adaptive, key breakpoints:
   • 1200px+
   • 1199px - 992px
   • 991px - 768px
