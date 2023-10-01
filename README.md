@@ -1,6 +1,6 @@
 # Adaptive_Design__study-case
 Study case in Adaptive Design.
-Code by HTML, CSS, SASS, SASS-live compiler, JS
+Code by HTML, CSS, SASS, SASS-live compiler, JS, BEM-techlonogy 
 Design by: Figma
 
 The site is adaptive, key breakpoints:
