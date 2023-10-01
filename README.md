@@ -3,7 +3,7 @@
   - The project was developed after 2 weeks of training in web development
 # Stack: 
   - HTML
-  - CSS
+  - ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)CSS
   - SCSS
   - SASS
   - SASS-live compiler
