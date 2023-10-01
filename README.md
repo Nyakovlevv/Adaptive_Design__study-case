@@ -2,7 +2,7 @@
 Study case in Adaptive Design.
 Study case after 2 weeks of learning Web-development 
 
-# ode by: 
+# Code by: 
   HTML
   CSS
   SASS
