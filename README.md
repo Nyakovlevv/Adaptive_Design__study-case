@@ -1,6 +1,7 @@
 # Adaptive_Design__study-case
   - landing page for ordering individual guitar lessons.
   - The project was developed after 2 weeks of training in web development
+  - [Github pages site link](https://nyakovlevv.github.io/Adaptive_Design__study-case)
 # Stack: 
   - <img height="20" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">  HTML
   - <img height="20" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">  CSS
