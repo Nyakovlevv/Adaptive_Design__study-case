@@ -4,6 +4,7 @@
 # Stack: 
   - HTML
   - CSS
+  - SCSS
   - SASS
   - SASS-live compiler
   - JS
