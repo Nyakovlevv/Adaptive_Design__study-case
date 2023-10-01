@@ -1,7 +1,7 @@
 # Adaptive_Design__study-case
   - landing page for ordering individual guitar lessons.
   - The project was developed after 2 weeks of training in web development
-# Code by: 
+# Stack: 
   - HTML
   - CSS
   - SASS
