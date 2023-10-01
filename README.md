@@ -1,7 +1,4 @@
 # Adaptive_Design__study-case
-Study case in Adaptive Design.
-Study case after 2 weeks of learning Web-development 
-
 # Code by: 
   - HTML
   - CSS
@@ -20,5 +17,6 @@ Study case after 2 weeks of learning Web-development
   - 991px - 768px
   - 767px - 576px
   - 575px - 320px
+
 
   
