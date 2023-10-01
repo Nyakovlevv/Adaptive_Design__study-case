@@ -7,7 +7,8 @@
   - SASS
   - SASS-live compiler
   - JS
-  - BEM-techlonogy 
+  - BEM-techlonogy
+  - VS code
   
 # Design by: 
   - Figma
